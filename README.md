@@ -1,6 +1,7 @@
 # Artificial Intelligence Methods and Systems Laboratory Works
 
-Welcome to the repository for the laboratory works completed as part of the "Methods and Systems of Artificial Intelligence" course at [Your University]. This collection showcases a series of programs implemented in SWI Prolog, a powerful and versatile logic programming language.
+Welcome to the repository for the laboratory works completed as part of the "Methods and Systems of Artificial Intelligence" course at 
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”. This collection showcases a series of programs implemented in SWI Prolog, a powerful and versatile logic programming language.
 
 ## Overview
 
@@ -20,6 +21,7 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 ## Acknowledgments
 
-Special thanks to the professors and instructors at [Your University] for their guidance and expertise in teaching the "Methods and Systems of Artificial Intelligence" course.
+Special thanks to the professors and instructors at 
+National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” for their guidance and expertise in teaching the "Methods and Systems of Artificial Intelligence" course.
 
 Happy coding! 🚀
